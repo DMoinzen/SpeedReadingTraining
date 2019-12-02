@@ -9,13 +9,18 @@
   This script outputs a find the number "game" into the comandline.
   The goal is to find the numbers 1 - 20 as fast as possible in sequence.
 
-  This should train:
+  Objective: (This should train:)
   1) The speed to recognice text.
   2) coordination of the eyes.
   
 
 # Speed Reading Training 2: Reading at given Speed (work in progress)
-  This 
+  
+  This works similar to a metronome, where each tick a new word/line apears and a old one dissaprears.
+  
+  Should Display multiple words/lines at once.
+  
+  
   
   
   
