@@ -1,16 +1,27 @@
-
 # SpeedReadingTraining
-  Some simple Python scripts that intent to train abilities for speed reading 
-  Some References where the methodes to train "speed reading" were found are given at the end of this document
+Some simple Python scripts that intent to train abilities for speed reading. Will add more in time. 
+
+References, where the methodes to train "speed reading" were found, are given at the end of this document. 
+
+I hope to evolve this into a app for windows.
 
 # Reading Speed measurement (work in progress)
 
-# Speed Reading Training 1: Find the Number 
-  This script outputs a find the number "game" into the comandline.
-  The goal is to find the numbers 1 - 20 as fast as possible in sequence.
+A script to measure your current reading speed. Because for effective training it is important to quantify the progress made.
 
-  Objective: (This should train:)
+Asks for level of understanding (self test) because speed does not matter if you don't understand anything.
+
+Asks how dificult the text was (content wise) because if the brain needs time to progress the information one can not read at maximum speed.
+
+# Speed Reading Training 1: Find the Number 
+This script outputs a find-the-number "game" into the comandline.
+
+The goal is to find the numbers 1 - 20 as fast as possible in sequence.
+
+Objective: (This should train:)
+  
   1) The speed to recognice text.
+  
   2) coordination of the eyes.
   
 
