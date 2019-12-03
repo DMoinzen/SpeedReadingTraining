@@ -58,7 +58,10 @@
   
   
   
-# References Speed reading   
+# References Speed reading
+
+For now only German Sources are available, will add more in time.
+
   1) In German/ Deutsche Quellen
     
     Books:
